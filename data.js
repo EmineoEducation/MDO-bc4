@@ -591,6 +591,26 @@ window.LUMIO_DATA = {
 
 window.PAC_CONFIG = {
   "bloc": "bc4",
+  accroche_namescreen: {
+    "subtitle": "Stratégie de développement commercial",
+    "role": "consultant·e en développement commercial",
+    "intro": "Tu es {{STUDENT}}, consultant·e chez Lumio Health pour finaliser le business plan NordPulse — un partenariat commercial stratégique à closer. Stratégie d'offre, partenariats internationaux, pilotage budgétaire du plan marketing, encadrement d'une équipe commerciale multiculturelle : tu produis le rapport d'activité et le business plan de développement.",
+    "ratio_label": "3 semaines dans la vraie vie",
+    "regles": [
+      {
+        "ico": "📄",
+        "txt": "Tout ce que tu sais, c'est dans les documents commerciaux du poste de mission."
+      },
+      {
+        "ico": "🤐",
+        "txt": "Le jury évalue ta stratégie d'offre, la solidité des partenariats et ton pilotage budgétaire chiffré."
+      },
+      {
+        "ico": "💬",
+        "txt": "Quand tu as une hypothèse solide → Slack → ton commanditaire. Sa réaction débloque la suite."
+      }
+    ]
+  },
   "titre": "Diriger la stratégie de développement marketing et commercial d'une organisation",
   "epreuve": "Évaluation 1 : Rapport d'activité (mémoire professionnel), Évaluation 2 : Réalisation et présentation d'un business plan",
   "deadline": "14 mars 2025 · 18h00",
@@ -723,7 +743,7 @@ window.PAC_CONFIG = {
   ],
   "gabarits": {},
   "questionsPositionnement": [],
-  "juryPrompt": "Tu es le jury certifiant du bloc bc4 (Diriger une organisation).\nContexte : Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Serenity Pro · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- L'absence de plan marketing ET de plan d'actions commerciales formalisés et distincts entraîne le rejet du dossier, quelle que soit la qualité des autres parties.\n- Les rôles et responsabilités de chaque membre de l'équipe (Sonia Ferracci, Camille Ott, équipe Northgate) doivent être explicitement définis : tout dossier ne distinguant pas qui décide, qui exécute et qui contrôle sera éliminé.\n- Les indicateurs d'impact doivent être chiffrés et temporellement situés (ex. : CA prévisionnel à M12, taux de conversion leads B2B, coût d'acquisition client) : l'absence d'au moins trois indicateurs quantifiés est éliminatoire.\n- Le partenariat avec Northgate doit faire l'objet d'une argumentation chiffrée avec projection financière : une description purement qualitative sans montants ni volumes est insuffisante.\n- Les mesures correctives présentées doivent démontrer une capacité réelle d'adaptation de l'organisation commerciale (reconfiguration des canaux, introduction de nouveaux produits) et non se limiter à des ajustements budgétaires superficiels.\n- La note réflexive est obligatoire et doit atteindre 100 mots minimum avec un recul critique identifiable sur les décisions prises : son absence ou son caractère purement descriptif est éliminatoire.\n- Le dossier doit couvrir les quatre compétences C20, C21, C22 et C23 sans exception : tout bloc manquant entraîne l'invalidation de l'épreuve.\n\nRéponds EXACTEMENT dans ce format :\n### C20 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C21 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C22 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C23 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
+  "juryPrompt": "Tu es le jury certifiant du bloc bc4 (Diriger la stratégie de développement marketing et commercial d'une organisation — MDO, RNCP 35280).\nContexte : Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Serenity Pro · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- L'absence de plan marketing ET de plan d'actions commerciales formalisés et distincts entraîne le rejet du dossier, quelle que soit la qualité des autres parties.\n- Les rôles et responsabilités de chaque membre de l'équipe (Sonia Ferracci, Camille Ott, équipe Northgate) doivent être explicitement définis : tout dossier ne distinguant pas qui décide, qui exécute et qui contrôle sera éliminé.\n- Les indicateurs d'impact doivent être chiffrés et temporellement situés (ex. : CA prévisionnel à M12, taux de conversion leads B2B, coût d'acquisition client) : l'absence d'au moins trois indicateurs quantifiés est éliminatoire.\n- Le partenariat avec Northgate doit faire l'objet d'une argumentation chiffrée avec projection financière : une description purement qualitative sans montants ni volumes est insuffisante.\n- Les mesures correctives présentées doivent démontrer une capacité réelle d'adaptation de l'organisation commerciale (reconfiguration des canaux, introduction de nouveaux produits) et non se limiter à des ajustements budgétaires superficiels.\n- La note réflexive est obligatoire et doit atteindre 100 mots minimum avec un recul critique identifiable sur les décisions prises : son absence ou son caractère purement descriptif est éliminatoire.\n- Le dossier doit couvrir les quatre compétences C20, C21, C22 et C23 sans exception : tout bloc manquant entraîne l'invalidation de l'épreuve.\n\nRéponds EXACTEMENT dans ce format :\n### C20 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C21 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C22 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C23 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
   "livrableMinMots": 520,
   "noteReflexiveMinMots": 100
 };
