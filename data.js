@@ -316,17 +316,13 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "URGENT — Business plan",
             "app": "mail",
-            "props": {
-              "docId": "DOC-01"
-            }
+            "props": { "openId": "DOC-01" }
           },
           {
             "kind": "note",
             "name": "Synthèse des 3 comptes",
             "app": "notes",
-            "props": {
-              "docId": "DOC-02"
-            }
+            "props": { "openNote": "DOC-02" }
           }
         ]
       },
@@ -339,17 +335,13 @@ window.LUMIO_DATA = {
             "kind": "deck",
             "name": "Northgate x Lumio —",
             "app": "pdf",
-            "props": {
-              "docId": "DOC-03"
-            }
+            "props": { "openDoc": "DOC-03" }
           },
           {
             "kind": "pdf",
             "name": "Benchmark digital — Stratégies",
             "app": "pdf",
-            "props": {
-              "docId": "DOC-04"
-            }
+            "props": { "openDoc": "DOC-04" }
           }
         ]
       },
@@ -362,17 +354,13 @@ window.LUMIO_DATA = {
             "kind": "note",
             "name": "Draft plan marketing NordPulse",
             "app": "notes",
-            "props": {
-              "docId": "DOC-05"
-            }
+            "props": { "openNote": "DOC-05" }
           },
           {
             "kind": "pdf",
             "name": "Charte commerciale NordPulse v0.1",
             "app": "pdf",
-            "props": {
-              "docId": "DOC-06"
-            }
+            "props": { "openDoc": "DOC-06" }
           }
         ]
       },
@@ -385,9 +373,7 @@ window.LUMIO_DATA = {
             "kind": "pdf",
             "name": "CR réunion de coordination",
             "app": "pdf",
-            "props": {
-              "docId": "DOC-07"
-            }
+            "props": { "openDoc": "DOC-07" }
           }
         ]
       },
@@ -400,9 +386,7 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "Re: Closing jeudi —",
             "app": "mail",
-            "props": {
-              "docId": "DOC-08"
-            }
+            "props": { "openId": "DOC-08" }
           }
         ]
       },
@@ -412,46 +396,46 @@ window.LUMIO_DATA = {
         "icon": "🪪",
         "items": [
           {
-            "kind": "html",
-            "name": "Théo Marczak — CEO",
-            "app": "browser",
-            "props": {
-              "url": "portraits/portrait_theo_marczak.html"
-            }
+                    "kind": "html",
+                    "name": "Théo Marczak — CEO",
+                    "app": "browser",
+                    "props": {
+                              "openPortrait": "theo"
+                    }
           },
           {
-            "kind": "html",
-            "name": "Sonia Ferracci — Dir. Marketing",
-            "app": "browser",
-            "props": {
-              "url": "portraits/portrait_sonia_ferracci.html"
-            }
+                    "kind": "html",
+                    "name": "Sonia Ferracci — Dir. Marketing",
+                    "app": "browser",
+                    "props": {
+                              "openPortrait": "sonia"
+                    }
           },
           {
-            "kind": "html",
-            "name": "Camille Ott — Partenariats B2B",
-            "app": "browser",
-            "props": {
-              "url": "portraits/portrait_camille_ott.html"
-            }
+                    "kind": "html",
+                    "name": "Camille Ott — Partenariats B2B",
+                    "app": "browser",
+                    "props": {
+                              "openPortrait": "camille"
+                    }
           },
           {
-            "kind": "html",
-            "name": "Yassine Morel — Content Manager",
-            "app": "browser",
-            "props": {
-              "url": "portraits/portrait_yassine_morel.html"
-            }
+                    "kind": "html",
+                    "name": "Yassine Morel — Content Manager",
+                    "app": "browser",
+                    "props": {
+                              "openPortrait": "yassine"
+                    }
           },
           {
-            "kind": "html",
-            "name": "Jakob Rein — Northgate Capital",
-            "app": "browser",
-            "props": {
-              "url": "portraits/portrait_jakob_rein.html"
-            }
+                    "kind": "html",
+                    "name": "Jakob Rein — Northgate Capital",
+                    "app": "browser",
+                    "props": {
+                              "openPortrait": "jakob"
+                    }
           }
-        ]
+          ]
       }
     },
     "order": [
@@ -588,6 +572,14 @@ window.LUMIO_DATA = {
     "body": "Le marché B2B de la santé connectée au travail en Scandinavie représentait 340 millions d'euros en 2024 selon le cabinet Frost & Sullivan, avec une croissance attendue de 27 % par an jusqu'en 2028. Mais la fenêtre d'opportunité pour les acteurs européens de taille intermédiaire se resserre rapidement. Moodbeam, valorisée 180 millions d'euros après sa dernière levée en janvier, dispose désormais d'une force commerciale dédiée de dix-huit personnes en Suède, au Danemark et en Finlande. Garmin Health, lui, s'appuie sur sa notoriété grand public pour convertir les directions RH à coups d'offres tarifaires agressives. 'Les acheteurs scandinaves sont sophistiqués et très exigeants sur la preuve clinique, la conformité RGPD et la localisation des données', souligne Anders Holst, analyste chez IDC Nordic. 'Une marque inconnue dans la région a entre six et douze mois pour se faire une place avant que les contrats pluriannuels verrouillent le marché.' Les investisseurs, eux, commencent à arbitrer en faveur des acteurs déjà présents localement, rendant chaque trimestre de retard particulièrement coûteux pour les prétendants encore en phase de négociation."
   }
 };
+
+
+// ── Correctifs RETEX juin 2026 ── injectés après LUMIO_DATA ──────────────
+if (!window.LUMIO_DATA.finder.folders.mission) { window.LUMIO_DATA.finder.folders.mission = {"title": "Mission — Dossier complet", "sidebar": "Mission", "icon": "🗂", "items": [{"kind": "folder", "name": "Acte 1 — Ancrage", "folder": "acte1"}, {"kind": "folder", "name": "Acte 2 — Entrée affaire", "folder": "acte2"}, {"kind": "folder", "name": "Acte 3 — Diagnostic", "folder": "acte3"}, {"kind": "folder", "name": "Acte 4 — Production", "folder": "acte4"}, {"kind": "folder", "name": "Acte 5 — Réflexion", "folder": "acte5"}, {"kind": "folder", "name": "Portraits équipe", "folder": "portraits"}]}; }
+if (!window.LUMIO_DATA.finder.order.includes('mission')) { var _o=window.LUMIO_DATA.finder.order; window.LUMIO_DATA.finder.order = ['guide','mission',..._o.filter(x=>x!=='guide')]; }
+if (!window.LUMIO_DATA.portraits || !window.LUMIO_DATA.portraits.length) { window.LUMIO_DATA.portraits = [{"key": "theo", "id": "portrait-theo", "title": "Théo Marczak — CEO", "tabTitle": "Théo Marczak", "favicon": "T", "faviconColor": "#0a3d62", "host": "lusinedigitale.fr", "url": "lusinedigitale.fr/portrait/theo-marczak", "file": "portraits/portrait_theo_marczak.html"}, {"key": "sonia", "id": "portrait-sonia", "title": "Sonia Ferracci — Dir. Marketing", "tabTitle": "Sonia Ferracci", "favicon": "S", "faviconColor": "#a02020", "host": "cbnews.fr", "url": "cbnews.fr/portrait/sonia-ferracci", "file": "portraits/portrait_sonia_ferracci.html"}, {"key": "camille", "id": "portrait-camille", "title": "Camille Ott — Partenariats B2B", "tabTitle": "Camille Ott", "favicon": "C", "faviconColor": "#1a6641", "host": "actionco.fr", "url": "actionco.fr/portrait/camille-ott", "file": "portraits/portrait_camille_ott.html"}, {"key": "yassine", "id": "portrait-yassine", "title": "Yassine Morel — Content Manager", "tabTitle": "Yassine Morel", "favicon": "Y", "faviconColor": "#e85d3a", "host": "maddyness.com", "url": "maddyness.com/portrait/yassine-morel", "file": "portraits/portrait_yassine_morel.html"}, {"key": "jakob", "id": "portrait-jakob", "title": "Jakob Rein — Northgate Capital", "tabTitle": "Jakob Rein", "favicon": "J", "faviconColor": "#1b3a6b", "host": "forbes.fr", "url": "forbes.fr/portrait/jakob-rein", "file": "portraits/portrait_jakob_rein.html"}]; }
+if (!window.LUMIO_DATA.desktopIcons) { window.LUMIO_DATA.desktopIcons = [{"app": "finder", "folder": "mission", "label": "Mission", "kind": "folder"}, {"app": "finder", "folder": "portraits", "label": "Portraits équipe", "kind": "folder"}, {"app": "mail", "label": "Mail", "kind": "app"}, {"app": "slack", "label": "Slack", "kind": "app"}, {"app": "notepad", "label": "Mes notes.txt", "kind": "app"}]; }
+if (!window.LUMIO_DATA.voiceMemos || !window.LUMIO_DATA.voiceMemos.length) { window.LUMIO_DATA.voiceMemos = [{"title": "Débrief RDV — partenaire stratégique", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Mars 2025", "context": "mémo dicté après réunion", "durationSec": 44, "transcript": "Réunion ce matin avec le partenaire clé. Le message principal : ils veulent avancer, mais pas sans voir la certification MDR progresser. Côté budget, la fourchette est réaliste — ils sont prêts à discuter. Ce qui bloque, c'est la souveraineté des données : hébergement France, audit annuel, accès self-service. Je leur ai dit qu'on pouvait s'engager sur ce point d'ici fin mars. À valider avec Théo avant que je confirme."}, {"title": "Note terrain — signaux B2B semaine", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Avril 2025", "context": "mémo dicté en déplacement", "durationSec": 36, "transcript": "Trois signaux forts cette semaine. Un : les DSI bloquent systématiquement sur RGPD dès qu'on parle de wearable — sans hébergement local certifié, on ne passe pas. Deux : le sujet est remonté au niveau comité de direction dans deux entreprises sur trois — la décision n'est plus RH, elle est stratégique. Trois : les mutuelles commencent à nous solliciter directement pour des offres packagées. C'est un canal qu'on n'avait pas prévu et qui mérite qu'on y consacre du temps."}]; }
 
 window.PAC_CONFIG = {
   "bloc": "bc4",
