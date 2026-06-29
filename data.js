@@ -1,6 +1,6 @@
 // ══════════════════════════════════════════════════════════════
 //  DATA · PAC BC4 · Diriger une organisation
-//  Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Lumio Arc · 14 mars 2025
+//  Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Serenity Pro · 14 mars 2025
 //  Schéma : mailbox[] · dossiers[] · notes[] · guide · finder · calendar · slack
 //  ⚠️  Remplacer les [À COMPLÉTER] par le contenu narratif réel du bloc.
 //  ⚠️  Les placeholders {{PRENOM}} {{NOM}} {{EMAIL_ETUDIANT}} sont substitués à la connexion.
@@ -58,11 +58,11 @@ window.LUMIO_DATA = {
       "slides": [
         {
           "titre": "Cadre du partenariat & périmètre géographique",
-          "contenu": "Northgate Distribution (Copenhague, fondée 1994, CA 2024 : 87 M€) s'engage comme distributeur exclusif de la gamme Lumio Lumio Arc sur les marchés danois (DK) et suédois (SE) pour une durée initiale de 24 mois à compter de la signature du term sheet définitif, prévue au plus tard le 17 mars 2025. Le périmètre couvre l'ensemble des canaux B2B : vente directe grands comptes, courtiers santé-entreprise et revendeurs agréés. La Norvège et la Finlande sont exclues du présent accord et pourront faire l'objet d'un avenant séparé à partir du mois 13. Northgate mobilise une force commerciale de 12 account managers dédiés au segment Health & Wellness en Scandinavie. Lumio Health conserve l'intégralité des droits sur la marque, les données collectées et la relation client finale."
+          "contenu": "Northgate Distribution (Copenhague, fondée 1994, CA 2024 : 87 M€) s'engage comme distributeur exclusif de la gamme Lumio Serenity Pro sur les marchés danois (DK) et suédois (SE) pour une durée initiale de 24 mois à compter de la signature du term sheet définitif, prévue au plus tard le 17 mars 2025. Le périmètre couvre l'ensemble des canaux B2B : vente directe grands comptes, courtiers santé-entreprise et revendeurs agréés. La Norvège et la Finlande sont exclues du présent accord et pourront faire l'objet d'un avenant séparé à partir du mois 13. Northgate mobilise une force commerciale de 12 account managers dédiés au segment Health & Wellness en Scandinavie. Lumio Health conserve l'intégralité des droits sur la marque, les données collectées et la relation client finale."
         },
         {
           "titre": "Conditions financières & structure de commission",
-          "contenu": "Commission Northgate fixée à 18 % du prix de vente HT facturé au client final B2B. Prix catalogue Lumio Arc recommandé : 349 € HT par unité (pack entreprise 10 unités : 3 200 € HT, soit 320 €/unité). Sur la base d'un prix moyen de 330 € HT (mix catalogue + packs), la commission Northgate représente 59,40 € par unité vendue. Coût de revient industriel Lumio estimé : 112 € par unité (production + logistique DDP Copenhague). Marge brute résiduelle Lumio après commission : 158,60 € par unité, soit 48,1 % — en baisse de 7,2 points vs marge directe France (55,3 %). Paiement des commissions : mensuel, à 30 jours fin de mois sur factures encaissées. Aucun minimum garanti de revenus n'est consenti par Northgate ; la prise de risque volume reste intégralement portée par Lumio Health."
+          "contenu": "Commission Northgate fixée à 18 % du prix de vente HT facturé au client final B2B. Prix catalogue Serenity Pro recommandé : 349 € HT par unité (pack entreprise 10 unités : 3 200 € HT, soit 320 €/unité). Sur la base d'un prix moyen de 330 € HT (mix catalogue + packs), la commission Northgate représente 59,40 € par unité vendue. Coût de revient industriel Lumio estimé : 112 € par unité (production + logistique DDP Copenhague). Marge brute résiduelle Lumio après commission : 158,60 € par unité, soit 48,1 % — en baisse de 7,2 points vs marge directe France (55,3 %). Paiement des commissions : mensuel, à 30 jours fin de mois sur factures encaissées. Aucun minimum garanti de revenus n'est consenti par Northgate ; la prise de risque volume reste intégralement portée par Lumio Health."
         },
         {
           "titre": "Engagement volume & clauses de performance",
@@ -90,7 +90,7 @@ window.LUMIO_DATA = {
           "blocks": [
             {
               "type": "p",
-              "text": "Ce benchmark a été produit en urgence à la demande de Sonia Ferracci dans le cadre de l'opération NordPulse. Objectif : cartographier les pratiques content et les canaux d'acquisition digitaux utilisés par les acteurs du bien-être au travail en Scandinavie (Danemark, Suède, Norvège), et identifier les angles différenciants exploitables par Lumio Health pour le lancement Lumio Arc. Méthode : analyse de 14 comptes concurrents actifs entre octobre 2024 et février 2025, audit LinkedIn, revue de 6 podcasts RH nordiques, monitoring de 9 webinaires sectoriels."
+              "text": "Ce benchmark a été produit en urgence à la demande de Sonia Ferracci dans le cadre de l'opération NordPulse. Objectif : cartographier les pratiques content et les canaux d'acquisition digitaux utilisés par les acteurs du bien-être au travail en Scandinavie (Danemark, Suède, Norvège), et identifier les angles différenciants exploitables par Lumio Health pour le lancement Serenity Pro. Méthode : analyse de 14 comptes concurrents actifs entre octobre 2024 et février 2025, audit LinkedIn, revue de 6 podcasts RH nordiques, monitoring de 9 webinaires sectoriels."
             },
             {
               "type": "h2",
@@ -118,7 +118,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Aucun des concurrents analysés ne traite explicitement la gestion du stress sous l'angle multiculturel dans ses contenus. Or les ESN et grands groupes nordiques gèrent des équipes très internationales — profils français, allemands, indiens, polonais au sein de mêmes open spaces de Copenhague ou Stockholm. La question 'comment le stress se manifeste-t-il différemment selon les cultures ?' est posée dans 3 des 6 podcasts audités, sans jamais trouver de réponse produit. Lumio Lumio Arc, par sa capacité de mesure objective (signaux physiologiques non déclaratifs), peut légitimement porter ce discours : un wearable qui dépasse les biais culturels du questionnaire auto-déclaratif. C'est un angle content concret, différenciant, et aligné avec les enjeux réels des acheteurs ciblés par Camille."
+              "text": "Aucun des concurrents analysés ne traite explicitement la gestion du stress sous l'angle multiculturel dans ses contenus. Or les ESN et grands groupes nordiques gèrent des équipes très internationales — profils français, allemands, indiens, polonais au sein de mêmes open spaces de Copenhague ou Stockholm. La question 'comment le stress se manifeste-t-il différemment selon les cultures ?' est posée dans 3 des 6 podcasts audités, sans jamais trouver de réponse produit. Lumio Serenity Pro, par sa capacité de mesure objective (signaux physiologiques non déclaratifs), peut légitimement porter ce discours : un wearable qui dépasse les biais culturels du questionnaire auto-déclaratif. C'est un angle content concret, différenciant, et aligné avec les enjeux réels des acheteurs ciblés par Camille."
             },
             {
               "type": "callout",
@@ -143,15 +143,15 @@ window.LUMIO_DATA = {
           "blocks": [
             {
               "type": "p",
-              "text": "Ce document constitue la première version de travail de la charte commerciale destinée aux équipes terrain de Northgate Distribution (Copenhague). Il couvre l'argumentaire produit Lumio Arc, les objections anticipées, la grille tarifaire indicative et la politique de remise. Version à valider par Sonia Ferracci avant brief équipe Northgate — closing term sheet prévu 17 mars 2025. Remarque : les éléments d'adaptation culturelle nordique (approche relationnelle, sensibilité au consensus décisionnel, tonalité de communication) sont à intégrer par Sonia avant diffusion finale."
+              "text": "Ce document constitue la première version de travail de la charte commerciale destinée aux équipes terrain de Northgate Distribution (Copenhague). Il couvre l'argumentaire produit Serenity Pro, les objections anticipées, la grille tarifaire indicative et la politique de remise. Version à valider par Sonia Ferracci avant brief équipe Northgate — closing term sheet prévu 17 mars 2025. Remarque : les éléments d'adaptation culturelle nordique (approche relationnelle, sensibilité au consensus décisionnel, tonalité de communication) sont à intégrer par Sonia avant diffusion finale."
             },
             {
               "type": "h2",
-              "text": "1. Argumentaire produit — Lumio Lumio Arc"
+              "text": "1. Argumentaire produit — Lumio Serenity Pro"
             },
             {
               "type": "p",
-              "text": "Le wearable Lumio Arc mesure en continu trois marqueurs physiologiques du stress (variabilité de la fréquence cardiaque, conductance cutanée, temperature périphérique) et restitue des tableaux de bord RH anonymisés en temps réel. Différenciateurs clés à mettre en avant sur les marchés nordiques : (1) conformité RGPD native avec hébergement données sur serveurs européens certifiés ISO 27001 — argument décisif en Scandinavie ; (2) interopérabilité avec les SIRH leaders (Workday, SAP SuccessFactors) ; (3) ROI documenté : réduction de 18 % de l'absentéisme lié au stress chez nos 12 clients références secteur assurance, mesurée sur 12 mois (source : étude interne Lumio, jan. 2025). Éviter le registre « gadget bien-être » : positionner systématiquement comme outil de pilotage RH stratégique."
+              "text": "Le wearable Serenity Pro mesure en continu trois marqueurs physiologiques du stress (variabilité de la fréquence cardiaque, conductance cutanée, temperature périphérique) et restitue des tableaux de bord RH anonymisés en temps réel. Différenciateurs clés à mettre en avant sur les marchés nordiques : (1) conformité RGPD native avec hébergement données sur serveurs européens certifiés ISO 27001 — argument décisif en Scandinavie ; (2) interopérabilité avec les SIRH leaders (Workday, SAP SuccessFactors) ; (3) ROI documenté : réduction de 18 % de l'absentéisme lié au stress chez nos 12 clients références secteur assurance, mesurée sur 12 mois (source : étude interne Lumio, jan. 2025). Éviter le registre « gadget bien-être » : positionner systématiquement comme outil de pilotage RH stratégique."
             },
             {
               "type": "h2",
@@ -159,7 +159,7 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Objection 1 — « Nous avons déjà un programme bien-être interne. » Réponse : Lumio Arc ne remplace pas les dispositifs existants, il les quantifie. Proposer une phase pilote de 60 jours sur un périmètre de 50 collaborateurs, sans engagement de déploiement. Objection 2 — « Le prix est élevé par rapport aux solutions SaaS RH classiques. » Réponse : le coût total annuel par collaborateur (matériel + licence + support) est de 240 € HT, à comparer aux 1 200 à 1 800 € de coût moyen d'un arrêt maladie longue durée lié au burn-out (données INRS 2024, transposables au contexte nordique). Objection 3 — « Nous avons des réserves sur la collecte de données biométriques. » Réponse : données agrégées et anonymisées par design, aucune donnée individuelle accessible par l'employeur — architecture validée par notre DPO, documentation transmissible sur demande."
+              "text": "Objection 1 — « Nous avons déjà un programme bien-être interne. » Réponse : Serenity Pro ne remplace pas les dispositifs existants, il les quantifie. Proposer une phase pilote de 60 jours sur un périmètre de 50 collaborateurs, sans engagement de déploiement. Objection 2 — « Le prix est élevé par rapport aux solutions SaaS RH classiques. » Réponse : le coût total annuel par collaborateur (matériel + licence + support) est de 240 € HT, à comparer aux 1 200 à 1 800 € de coût moyen d'un arrêt maladie longue durée lié au burn-out (données INRS 2024, transposables au contexte nordique). Objection 3 — « Nous avons des réserves sur la collecte de données biométriques. » Réponse : données agrégées et anonymisées par design, aucune donnée individuelle accessible par l'employeur — architecture validée par notre DPO, documentation transmissible sur demande."
             },
             {
               "type": "h2",
@@ -167,11 +167,11 @@ window.LUMIO_DATA = {
             },
             {
               "type": "p",
-              "text": "Les tarifs ci-dessous s'entendent en euros HT, hors taxes locales, pour des contrats de 24 mois minimum. Segment PME (50–200 collaborateurs) : 220 € / collaborateur / an. Segment grands comptes (200–1 000 collaborateurs) : 185 € / collaborateur / an. Segment corporate (> 1 000 collaborateurs) : tarification sur devis, base négociable à partir de 155 € / collaborateur / an. Ces niveaux incluent : matériel Lumio Arc (1 wearable par collaborateur), licence plateforme dashboard RH, onboarding et formation (2 jours), support technique 5j/7. Attention : Camille Ott précise que les trois comptes grands groupes détectés (assurances, mutuelles, ESN — volumes entre 800 et 2 400 collaborateurs) se situent tous dans la tranche corporate. Les chiffrages précis restent à aligner avec les projections de Yassine Morel sur le coût d'acquisition digital avant consolidation dans le business plan."
+              "text": "Les tarifs ci-dessous s'entendent en euros HT, hors taxes locales, pour des contrats de 24 mois minimum. Segment PME (50–200 collaborateurs) : 220 € / collaborateur / an. Segment grands comptes (200–1 000 collaborateurs) : 185 € / collaborateur / an. Segment corporate (> 1 000 collaborateurs) : tarification sur devis, base négociable à partir de 155 € / collaborateur / an. Ces niveaux incluent : matériel Serenity Pro (1 wearable par collaborateur), licence plateforme dashboard RH, onboarding et formation (2 jours), support technique 5j/7. Attention : Camille Ott précise que les trois comptes grands groupes détectés (assurances, mutuelles, ESN — volumes entre 800 et 2 400 collaborateurs) se situent tous dans la tranche corporate. Les chiffrages précis restent à aligner avec les projections de Yassine Morel sur le coût d'acquisition digital avant consolidation dans le business plan."
             },
             {
               "type": "callout",
-              "text": "POINT DE VIGILANCE POUR SONIA — Les équipes Northgate opèrent selon un modèle de vente consultative à cycle long (6 à 9 mois en moyenne sur le segment corporate nordique). La politique de remise ne doit pas être présentée d'emblée comme un levier de closing rapide : cela décrédibiliserait le positionnement premium de Lumio Arc. Recommandation : autoriser une remise maximale de 12 % sur volume (> 500 unités) et 8 % sur engagement pluriannuel (36 mois), mais uniquement en phase de finalisation contractuelle, jamais en première approche."
+              "text": "POINT DE VIGILANCE POUR SONIA — Les équipes Northgate opèrent selon un modèle de vente consultative à cycle long (6 à 9 mois en moyenne sur le segment corporate nordique). La politique de remise ne doit pas être présentée d'emblée comme un levier de closing rapide : cela décrédibiliserait le positionnement premium de Serenity Pro. Recommandation : autoriser une remise maximale de 12 % sur volume (> 500 unités) et 8 % sur engagement pluriannuel (36 mois), mais uniquement en phase de finalisation contractuelle, jamais en première approche."
             },
             {
               "type": "h2",
@@ -204,7 +204,7 @@ window.LUMIO_DATA = {
           "blocks": [
             {
               "type": "p",
-              "text": "Réunion tenue en visioconférence le mardi 11 mars 2025 de 14h00 à 15h45 (CET). Participants côté Paris : Sonia Ferracci (DirMkt), Camille Ott (Partenariats B2B), Yassine Morel (Content). Côté Copenhague : Lars Bjørnstad (Directeur commercial Northgate Distribution), Maja Holst (Ops & CRM, Northgate). Objectif initial : synchroniser les jalons opérationnels du lancement Lumio Arc sur les marchés nordiques et valider les outils de pilotage communs. Deux points de friction majeurs ont émergé, nécessitant un arbitrage de la direction avant le closing du term sheet prévu le 14 mars."
+              "text": "Réunion tenue en visioconférence le mardi 11 mars 2025 de 14h00 à 15h45 (CET). Participants côté Paris : Sonia Ferracci (DirMkt), Camille Ott (Partenariats B2B), Yassine Morel (Content). Côté Copenhague : Lars Bjørnstad (Directeur commercial Northgate Distribution), Maja Holst (Ops & CRM, Northgate). Objectif initial : synchroniser les jalons opérationnels du lancement Serenity Pro sur les marchés nordiques et valider les outils de pilotage communs. Deux points de friction majeurs ont émergé, nécessitant un arbitrage de la direction avant le closing du term sheet prévu le 14 mars."
             },
             {
               "type": "h2",
@@ -316,13 +316,17 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "URGENT — Business plan",
             "app": "mail",
-            "props": { "openId": "DOC-01" }
+            "props": {
+              "docId": "DOC-01"
+            }
           },
           {
             "kind": "note",
             "name": "Synthèse des 3 comptes",
             "app": "notes",
-            "props": { "openNote": "DOC-02" }
+            "props": {
+              "docId": "DOC-02"
+            }
           }
         ]
       },
@@ -335,13 +339,17 @@ window.LUMIO_DATA = {
             "kind": "deck",
             "name": "Northgate x Lumio —",
             "app": "pdf",
-            "props": { "openDoc": "DOC-03" }
+            "props": {
+              "docId": "DOC-03"
+            }
           },
           {
             "kind": "pdf",
             "name": "Benchmark digital — Stratégies",
             "app": "pdf",
-            "props": { "openDoc": "DOC-04" }
+            "props": {
+              "docId": "DOC-04"
+            }
           }
         ]
       },
@@ -354,13 +362,17 @@ window.LUMIO_DATA = {
             "kind": "note",
             "name": "Draft plan marketing NordPulse",
             "app": "notes",
-            "props": { "openNote": "DOC-05" }
+            "props": {
+              "docId": "DOC-05"
+            }
           },
           {
             "kind": "pdf",
             "name": "Charte commerciale NordPulse v0.1",
             "app": "pdf",
-            "props": { "openDoc": "DOC-06" }
+            "props": {
+              "docId": "DOC-06"
+            }
           }
         ]
       },
@@ -373,7 +385,9 @@ window.LUMIO_DATA = {
             "kind": "pdf",
             "name": "CR réunion de coordination",
             "app": "pdf",
-            "props": { "openDoc": "DOC-07" }
+            "props": {
+              "docId": "DOC-07"
+            }
           }
         ]
       },
@@ -386,7 +400,9 @@ window.LUMIO_DATA = {
             "kind": "mail",
             "name": "Re: Closing jeudi —",
             "app": "mail",
-            "props": { "openId": "DOC-08" }
+            "props": {
+              "docId": "DOC-08"
+            }
           }
         ]
       },
@@ -396,46 +412,46 @@ window.LUMIO_DATA = {
         "icon": "🪪",
         "items": [
           {
-                    "kind": "html",
-                    "name": "Théo Marczak — CEO",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "theo"
-                    }
+            "kind": "html",
+            "name": "Théo Marczak — CEO",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_theo_marczak.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Sonia Ferracci — Dir. Marketing",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "sonia"
-                    }
+            "kind": "html",
+            "name": "Sonia Ferracci — Dir. Marketing",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_sonia_ferracci.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Camille Ott — Partenariats B2B",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "camille"
-                    }
+            "kind": "html",
+            "name": "Camille Ott — Partenariats B2B",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_camille_ott.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Yassine Morel — Content Manager",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "yassine"
-                    }
+            "kind": "html",
+            "name": "Yassine Morel — Content Manager",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_yassine_morel.html"
+            }
           },
           {
-                    "kind": "html",
-                    "name": "Jakob Rein — Northgate Capital",
-                    "app": "browser",
-                    "props": {
-                              "openPortrait": "jakob"
-                    }
+            "kind": "html",
+            "name": "Jakob Rein — Northgate Capital",
+            "app": "browser",
+            "props": {
+              "url": "portraits/portrait_jakob_rein.html"
+            }
           }
-          ]
+        ]
       }
     },
     "order": [
@@ -474,7 +490,7 @@ window.LUMIO_DATA = {
     "events": {
       "14": [
         {
-          "label": "Kick-off · Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Lumio Arc",
+          "label": "Kick-off · Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Serenity Pro",
           "bg": "#3a7bd5",
           "color": "#fff",
           "bold": true
@@ -538,13 +554,13 @@ window.LUMIO_DATA = {
           "avatar": "TM",
           "color": "#134547",
           "time": "08:54",
-          "text": "Ce que j'attends de toi concrètement : un plan marketing et commercial opérationnel pour le lancement Lumio Arc sur les marchés nordiques, avec une projection de rentabilité à 18 mois qu'on peut défendre face à Northgate — tu as 48h max"
+          "text": "Ce que j'attends de toi concrètement : un plan marketing et commercial opérationnel pour le lancement Serenity Pro sur les marchés nordiques, avec une projection de rentabilité à 18 mois qu'on peut défendre face à Northgate — tu as 48h max"
         }
       ]
     }
   },
   "slackPrompts": {
-    "commanditaire": "Tu es Théo Marczak, CEO de Lumio Health chez Lumio Health. Tu réponds à {{PRENOM}}, consultant·e externe sur la mission \"Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Lumio Arc\". Tu évalues sans expliquer, tu relances sans donner la réponse, tu simules la pression hiérarchique. Tu réponds en 2-3 messages courts séparés par ---SPLIT---. Pas de longs développements.",
+    "commanditaire": "Tu es Théo Marczak, CEO de Lumio Health chez Lumio Health. Tu réponds à {{PRENOM}}, consultant·e externe sur la mission \"Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Serenity Pro\". Tu évalues sans expliquer, tu relances sans donner la réponse, tu simules la pression hiérarchique. Tu réponds en 2-3 messages courts séparés par ---SPLIT---. Pas de longs développements.",
     "commanditaireLivrable": "Tu es Théo Marczak. Tu viens de recevoir le livrable de {{PRENOM}}. Tu réagis en 2-3 messages courts séparés par ---SPLIT---. Tu pointes ce qui te paraît juste et ce qui te paraît faible, sans expliquer comment corriger."
   },
   "pressArticles": [
@@ -557,7 +573,7 @@ window.LUMIO_DATA = {
       "date": "11 mars 2025",
       "headline": "Santé connectée au travail : les marchés nordiques, nouvel eldorado des medtechs françaises ?",
       "lede": "Portés par des politiques publiques ambitieuses en matière de bien-être au travail, la Suède, le Danemark et la Finlande s'imposent comme des marchés prioritaires pour les startups françaises de santé numérique. Mais s'y implanter exige bien plus qu'un simple produit performant.",
-      "illustration": "portraits/Theo_Marczak.png",
+      "illustration": "PHOTO ILLUSTRATIVE",
       "body": "Le baromètre annuel du cabinet Copenhagen Health Insights, publié début mars, confirme une tendance de fond : les entreprises scandinaves consacrent en moyenne 340 euros par salarié et par an à des dispositifs de prévention du stress et des risques psychosociaux, soit 2,3 fois plus que la moyenne européenne. Un chiffre qui fait saliver les acteurs français du wearable médical et de la santé connectée.\n\nCette dynamique s'explique en partie par le cadre réglementaire nordique. Au Danemark, la loi sur l'environnement de travail (Arbejdsmiljøloven), régulièrement renforcée depuis 2020, impose aux entreprises de plus de 50 salariés un suivi documenté des indicateurs de bien-être psychologique. Les outils de mesure objective du stress — capteurs biométriques, plateformes d'analyse des données physiologiques — y trouvent donc un débouché naturel, notamment auprès des grandes mutuelles et des groupes d'assurance qui cherchent à réduire l'absentéisme.\n\n\"Le marché nordique ne s'aborde pas comme le marché allemand ou espagnol\", tempère pourtant Frédéric Boullanger, associé au sein du fonds Helix Ventures spécialisé dans les medtechs européennes. \"Les décideurs RH et les directions achats y sont très exigeants sur la preuve clinique, la conformité RGPD et la robustesse des données. Un beau deck de présentation ne suffit pas. Il faut des références, des chiffres, et idéalement un partenaire local crédible.\"\n\nC'est précisément sur ce point que plusieurs startups françaises ont trébuché ces deux dernières années. L'erreur classique consiste à sous-estimer le cycle de vente B2B dans ces pays : en moyenne 7 à 11 mois pour un contrat avec un grand groupe, selon les données du Hub French Tech Copenhagen. Les acheteurs nordiques privilégient les appels d'offres formalisés et les phases pilotes longues, ce qui pèse lourd sur la trésorerie des jeunes pousses.\n\nLa question du canal de distribution se pose avec une acuité particulière. Faut-il ouvrir une filiale locale, recruter un sales director nordique ou s'appuyer sur un distributeur partenaire déjà implanté ? \"La troisième option est souvent la plus rapide pour valider le marché\", reconnaît Isabelle Caumont, directrice internationale chez BpiFrance, \"mais elle suppose de bien négocier les marges, les exclusivités territoriales et les objectifs de performance dès le term sheet. Beaucoup de fondateurs bâclent cette étape sous la pression du calendrier.\"\n\nDu côté des secteurs cibles, les ESN (entreprises de services du numérique) et les grandes mutuelles santé apparaissent comme les comptes les plus réceptifs aux solutions de prévention des risques psychosociaux. En Suède, le géant de l'assurance Folksam a ainsi déployé en 2024 un programme pilote avec des wearables de monitoring du stress auprès de 1 200 salariés, générant une réduction de 18 % des arrêts maladie liés au burn-out sur six mois. Un cas d'usage qui circule désormais dans tous les boards de medtechs européennes.\n\nReste la question du content marketing et de la génération de leads dans ces géographies. Les acheteurs nordiques consomment massivement les contenus LinkedIn et les études de cas chiffrées, mais montrent une méfiance marquée envers les approches trop commerciales. \"Il faut du contenu éditorial de fond, en anglais et si possible en danois ou suédois, avec des données probantes\", insiste Mikael Lund, consultant en go-to-market basé à Stockholm. \"Un livre blanc bâclé peut faire plus de mal que de bien auprès d'un DRH scandinave.\"\n\nPour les medtechs françaises qui lorgnent sur ces marchés, la fenêtre d'opportunité est réelle — mais étroite. Plusieurs acteurs américains et allemands intensifient leurs efforts commerciaux dans la région, et les distributeurs locaux de référence commencent à consolider leurs portefeuilles partenaires. \"Ceux qui signent des accords solides en 2025 prendront une avance difficile à combler\", conclut Frédéric Boullanger. \"Ceux qui hésitent risquent de trouver les meilleures portes fermées d'ici dix-huit mois.\""
     }
   ],
@@ -573,36 +589,8 @@ window.LUMIO_DATA = {
   }
 };
 
-
-// ── Correctifs RETEX juin 2026 ── injectés après LUMIO_DATA ──────────────
-if (!window.LUMIO_DATA.finder.folders.mission) { window.LUMIO_DATA.finder.folders.mission = {"title": "Mission — Dossier complet", "sidebar": "Mission", "icon": "🗂", "items": [{"kind": "folder", "name": "Acte 1 — Ancrage", "folder": "acte1"}, {"kind": "folder", "name": "Acte 2 — Entrée affaire", "folder": "acte2"}, {"kind": "folder", "name": "Acte 3 — Diagnostic", "folder": "acte3"}, {"kind": "folder", "name": "Acte 4 — Production", "folder": "acte4"}, {"kind": "folder", "name": "Acte 5 — Réflexion", "folder": "acte5"}, {"kind": "folder", "name": "Portraits équipe", "folder": "portraits"}]}; }
-if (!window.LUMIO_DATA.finder.order.includes('mission')) { var _o=window.LUMIO_DATA.finder.order; window.LUMIO_DATA.finder.order = ['guide','mission',..._o.filter(x=>x!=='guide')]; }
-if (!window.LUMIO_DATA.portraits || !window.LUMIO_DATA.portraits.length) { window.LUMIO_DATA.portraits = [{"key": "theo", "id": "portrait-theo", "title": "Théo Marczak — CEO", "tabTitle": "Théo Marczak", "favicon": "T", "faviconColor": "#0a3d62", "host": "lusinedigitale.fr", "url": "lusinedigitale.fr/portrait/theo-marczak", "file": "portraits/portrait_theo_marczak.html"}, {"key": "sonia", "id": "portrait-sonia", "title": "Sonia Ferracci — Dir. Marketing", "tabTitle": "Sonia Ferracci", "favicon": "S", "faviconColor": "#a02020", "host": "cbnews.fr", "url": "cbnews.fr/portrait/sonia-ferracci", "file": "portraits/portrait_sonia_ferracci.html"}, {"key": "camille", "id": "portrait-camille", "title": "Camille Ott — Partenariats B2B", "tabTitle": "Camille Ott", "favicon": "C", "faviconColor": "#1a6641", "host": "actionco.fr", "url": "actionco.fr/portrait/camille-ott", "file": "portraits/portrait_camille_ott.html"}, {"key": "yassine", "id": "portrait-yassine", "title": "Yassine Morel — Content Manager", "tabTitle": "Yassine Morel", "favicon": "Y", "faviconColor": "#e85d3a", "host": "maddyness.com", "url": "maddyness.com/portrait/yassine-morel", "file": "portraits/portrait_yassine_morel.html"}, {"key": "jakob", "id": "portrait-jakob", "title": "Jakob Rein — Northgate Capital", "tabTitle": "Jakob Rein", "favicon": "J", "faviconColor": "#1b3a6b", "host": "forbes.fr", "url": "forbes.fr/portrait/jakob-rein", "file": "portraits/portrait_jakob_rein.html"}]; }
-if (!window.LUMIO_DATA.desktopIcons) { window.LUMIO_DATA.desktopIcons = [{"app": "finder", "folder": "mission", "label": "Mission", "kind": "folder"}, {"app": "finder", "folder": "portraits", "label": "Portraits équipe", "kind": "folder"}, {"app": "mail", "label": "Mail", "kind": "app"}, {"app": "slack", "label": "Slack", "kind": "app"}, {"app": "notepad", "label": "Mes notes.txt", "kind": "app"}]; }
-if (!window.LUMIO_DATA.voiceMemos || !window.LUMIO_DATA.voiceMemos.length) { window.LUMIO_DATA.voiceMemos = [{"title": "Débrief RDV — partenaire stratégique", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Mars 2025", "context": "mémo dicté après réunion", "durationSec": 44, "transcript": "Réunion ce matin avec le partenaire clé. Le message principal : ils veulent avancer, mais pas sans voir la certification MDR progresser. Côté budget, la fourchette est réaliste — ils sont prêts à discuter. Ce qui bloque, c'est la souveraineté des données : hébergement France, audit annuel, accès self-service. Je leur ai dit qu'on pouvait s'engager sur ce point d'ici fin mars. À valider avec Théo avant que je confirme."}, {"title": "Note terrain — signaux B2B semaine", "author": "Camille Ott", "role": "Responsable partenariats B2B", "date": "Avril 2025", "context": "mémo dicté en déplacement", "durationSec": 36, "transcript": "Trois signaux forts cette semaine. Un : les DSI bloquent systématiquement sur RGPD dès qu'on parle de wearable — sans hébergement local certifié, on ne passe pas. Deux : le sujet est remonté au niveau comité de direction dans deux entreprises sur trois — la décision n'est plus RH, elle est stratégique. Trois : les mutuelles commencent à nous solliciter directement pour des offres packagées. C'est un canal qu'on n'avait pas prévu et qui mérite qu'on y consacre du temps."}]; }
-
 window.PAC_CONFIG = {
   "bloc": "bc4",
-  accroche_namescreen: {
-    "subtitle": "Stratégie de développement commercial",
-    "role": "consultant·e en développement commercial",
-    "intro": "Tu es {{STUDENT}}, consultant·e chez Lumio Health pour finaliser le business plan NordPulse — un partenariat commercial stratégique à closer. Stratégie d'offre, partenariats internationaux, pilotage budgétaire du plan marketing, encadrement d'une équipe commerciale multiculturelle : tu produis le rapport d'activité et le business plan de développement.",
-    "ratio_label": "3 semaines dans la vraie vie",
-    "regles": [
-      {
-        "ico": "📄",
-        "txt": "Tout ce que tu sais, c'est dans les documents commerciaux du poste de mission."
-      },
-      {
-        "ico": "🤐",
-        "txt": "Le jury évalue ta stratégie d'offre, la solidité des partenariats et ton pilotage budgétaire chiffré."
-      },
-      {
-        "ico": "💬",
-        "txt": "Quand tu as une hypothèse solide → Slack → ton commanditaire. Sa réaction débloque la suite."
-      }
-    ]
-  },
   "titre": "Diriger la stratégie de développement marketing et commercial d'une organisation",
   "epreuve": "Évaluation 1 : Rapport d'activité (mémoire professionnel), Évaluation 2 : Réalisation et présentation d'un business plan",
   "deadline": "14 mars 2025 · 18h00",
@@ -653,7 +641,7 @@ window.PAC_CONFIG = {
       "label": "Concevoir une stratégie d'offre adaptée aux marchés ciblés pour atteindre les objectifs économiques de l'organisation en prenant en compte les évolutions technologiques et sociétales, et en tenant compte des contraintes de rentabilité de l'organisation",
       "libelle": "Concevoir une",
       "rncp": "Concevoir une stratégie d'offre adaptée aux marchés ciblés pour atteindre les objectifs économiques de l'organisation en prenant en compte les évolutions technologiques et sociétales, et en tenant compte des contraintes de rentabilité de l'organisation",
-      "placeholder": "Décrivez comment vous avez construit le plan marketing et le plan d'actions commerciales pour le lancement Lumio Arc sur les marchés nordiques. Quels objectifs chiffrés avez-vous fixés, quelles opérations avez-vous planifiées, et comment avez-vous coordonné les moyens marketing avec les actions commerciales de Camille Ott pour garantir un développement compétitif à Lumio Health ?",
+      "placeholder": "Décrivez comment vous avez construit le plan marketing et le plan d'actions commerciales pour le lancement Serenity Pro sur les marchés nordiques. Quels objectifs chiffrés avez-vous fixés, quelles opérations avez-vous planifiées, et comment avez-vous coordonné les moyens marketing avec les actions commerciales de Camille Ott pour garantir un développement compétitif à Lumio Health ?",
       "min": 180,
       "motsCles": [
         "plan marketing",
@@ -735,9 +723,14 @@ window.PAC_CONFIG = {
   ],
   "gabarits": {},
   "questionsPositionnement": [],
-  "juryPrompt": "Tu es le jury certifiant du bloc bc4 (Diriger la stratégie de développement marketing et commercial d'une organisation — MDO, RNCP 35280).\nContexte : Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Lumio Arc · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- L'absence de plan marketing ET de plan d'actions commerciales formalisés et distincts entraîne le rejet du dossier, quelle que soit la qualité des autres parties.\n- Les rôles et responsabilités de chaque membre de l'équipe (Sonia Ferracci, Camille Ott, équipe Northgate) doivent être explicitement définis : tout dossier ne distinguant pas qui décide, qui exécute et qui contrôle sera éliminé.\n- Les indicateurs d'impact doivent être chiffrés et temporellement situés (ex. : CA prévisionnel à M12, taux de conversion leads B2B, coût d'acquisition client) : l'absence d'au moins trois indicateurs quantifiés est éliminatoire.\n- Le partenariat avec Northgate doit faire l'objet d'une argumentation chiffrée avec projection financière : une description purement qualitative sans montants ni volumes est insuffisante.\n- Les mesures correctives présentées doivent démontrer une capacité réelle d'adaptation de l'organisation commerciale (reconfiguration des canaux, introduction de nouveaux produits) et non se limiter à des ajustements budgétaires superficiels.\n- La note réflexive est obligatoire et doit atteindre 100 mots minimum avec un recul critique identifiable sur les décisions prises : son absence ou son caractère purement descriptif est éliminatoire.\n- Le dossier doit couvrir les quatre compétences C20, C21, C22 et C23 sans exception : tout bloc manquant entraîne l'invalidation de l'épreuve.\n\nRéponds EXACTEMENT dans ce format :\n### C20 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C21 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C22 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C23 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
+  "juryPrompt": "Tu es le jury certifiant du bloc bc4 (Diriger une organisation).\nContexte : Opération NordPulse — Conquête du marché B2B nordique avec la gamme Lumio Serenity Pro · 14 mars 2025.\nTu évalues une production étudiante aux critères RNCP stricts. Sois exigeant mais juste.\nCritères éliminatoires :\n- L'absence de plan marketing ET de plan d'actions commerciales formalisés et distincts entraîne le rejet du dossier, quelle que soit la qualité des autres parties.\n- Les rôles et responsabilités de chaque membre de l'équipe (Sonia Ferracci, Camille Ott, équipe Northgate) doivent être explicitement définis : tout dossier ne distinguant pas qui décide, qui exécute et qui contrôle sera éliminé.\n- Les indicateurs d'impact doivent être chiffrés et temporellement situés (ex. : CA prévisionnel à M12, taux de conversion leads B2B, coût d'acquisition client) : l'absence d'au moins trois indicateurs quantifiés est éliminatoire.\n- Le partenariat avec Northgate doit faire l'objet d'une argumentation chiffrée avec projection financière : une description purement qualitative sans montants ni volumes est insuffisante.\n- Les mesures correctives présentées doivent démontrer une capacité réelle d'adaptation de l'organisation commerciale (reconfiguration des canaux, introduction de nouveaux produits) et non se limiter à des ajustements budgétaires superficiels.\n- La note réflexive est obligatoire et doit atteindre 100 mots minimum avec un recul critique identifiable sur les décisions prises : son absence ou son caractère purement descriptif est éliminatoire.\n- Le dossier doit couvrir les quatre compétences C20, C21, C22 et C23 sans exception : tout bloc manquant entraîne l'invalidation de l'épreuve.\n\nRéponds EXACTEMENT dans ce format :\n### C20 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C21 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C22 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### C23 — [Satisfaisant / Insuffisant / Absent]\nUne phrase de retour précise et exigeante.\n\n### Note réflexive — [Satisfaisant / Insuffisant / Absent]\nUne phrase.\n\n## Niveau global\n**[Non conforme / Partiellement conforme / Conforme / Conforme avec distinction]**\n\n## Question de jury\nUne question dérangeante que tu poserais à l'oral.",
   "livrableMinMots": 520,
   "noteReflexiveMinMots": 100
 };
 // Alias de compatibilité
 window.PASS_CONFIG = window.PAC_CONFIG;
+
+// [PATCH] Correction bug — voiceMemos fallback pour app-voice.jsx
+if (window.LUMIO_DATA && !window.LUMIO_DATA.voiceMemos && !window.LUMIO_DATA.camilleVerbatims) {
+  window.LUMIO_DATA.voiceMemos = [];
+}
