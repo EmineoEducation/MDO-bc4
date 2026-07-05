@@ -586,7 +586,36 @@ window.LUMIO_DATA = {
     "headline": "Wearables anti-stress : les géants scandinaves passent la vitesse supérieure et ferment la fenêtre aux entrants européens",
     "chapeau": "Garmin Health et la start-up suédoise Moodbeam viennent d'annoncer un accord-cadre avec trois des cinq plus grands groupes d'assurances nordiques pour déployer leurs dispositifs de mesure du stress en entreprise dès le second semestre 2025. Une offensive qui redistribue les cartes à quelques semaines du salon HR Tech Copenhagen, rendez-vous incontournable pour tout acteur cherchant à s'implanter dans la région.",
     "body": "Le marché B2B de la santé connectée au travail en Scandinavie représentait 340 millions d'euros en 2024 selon le cabinet Frost & Sullivan, avec une croissance attendue de 27 % par an jusqu'en 2028. Mais la fenêtre d'opportunité pour les acteurs européens de taille intermédiaire se resserre rapidement. Moodbeam, valorisée 180 millions d'euros après sa dernière levée en janvier, dispose désormais d'une force commerciale dédiée de dix-huit personnes en Suède, au Danemark et en Finlande. Garmin Health, lui, s'appuie sur sa notoriété grand public pour convertir les directions RH à coups d'offres tarifaires agressives. 'Les acheteurs scandinaves sont sophistiqués et très exigeants sur la preuve clinique, la conformité RGPD et la localisation des données', souligne Anders Holst, analyste chez IDC Nordic. 'Une marque inconnue dans la région a entre six et douze mois pour se faire une place avant que les contrats pluriannuels verrouillent le marché.' Les investisseurs, eux, commencent à arbitrer en faveur des acteurs déjà présents localement, rendant chaque trimestre de retard particulièrement coûteux pour les prétendants encore en phase de négociation."
-  }
+  },
+  "voiceMemos": [
+    {
+        "title": "Sur les trois comptes nordiques, vus de près",
+        "author": "Camille Ott",
+        "role": "Responsable partenariats B2B",
+        "date": "",
+        "context": "Verbatim terrain",
+        "durationSec": 84,
+        "transcript": "Les trois grands comptes identifiés sur le Danemark, la Suède et la Norvège sont réels, je les ai qualifiés moi-même. Mais attention à ce qu'on met dans le business plan : aucun des trois ne signera au rythme d'un compte français. Là-bas, la décision passe par les comités santé-sécurité et les représentants du personnel — c'est plus lent au démarrage et beaucoup plus solide ensuite. Si on projette des revenus T2 sur ces comptes, le plan sera faux dès le premier trimestre et Northgate le verra. Projetons un T3 prudent et un T4 fort : c'est moins spectaculaire jeudi matin, mais c'est défendable pendant dix-huit mois."
+    },
+    {
+        "title": "Sur la tension Paris-Copenhague",
+        "author": "Camille Ott",
+        "role": "Responsable partenariats B2B",
+        "date": "",
+        "context": "Verbatim terrain",
+        "durationSec": 70,
+        "transcript": "Le standup mixte avec Copenhague, en ce moment, c'est deux monologues polis. Eux considèrent que la charte commerciale v0.1 est trop française — trop de discours produit, pas assez de preuve d'usage. Nous, on trouve qu'ils veulent tout localiser avant même d'avoir vendu quoi que ce soit. Les deux ont raison à moitié. Mais si on arrive au closing jeudi sans avoir arbitré qui adapte quoi, on signera un partenariat avec un différend opérationnel déjà installé dedans. Un term sheet ne règle pas les tensions, il les finance."
+    },
+    {
+        "title": "Sur la structure de commission, ligne à relire",
+        "author": "Camille Ott",
+        "role": "Responsable partenariats B2B",
+        "date": "",
+        "context": "Verbatim terrain",
+        "durationSec": 62,
+        "transcript": "Dans le term sheet v2, la structure de commission a l'air anodine, elle ne l'est pas. Telle qu'elle est rédigée, plus le volume monte, plus notre marge unitaire descend — ce qui est normal — mais les clauses de performance nous exposent des pénalités si le volume ne monte pas. Autrement dit : on porte le risque dans les deux sens. Avant jeudi neuf heures, il faut que quelqu'un fasse tourner les trois scénarios de volume contre cette grille et vérifie à partir de quel point on travaille à perte. Si personne ne l'a fait, je préfère qu'on décale le closing plutôt qu'on signe à l'aveugle."
+    }
+  ]
 };
 
 window.PAC_CONFIG = {
