@@ -778,3 +778,19 @@ window.PAC_CONFIG = {
 };
 // Alias de compatibilité
 window.PASS_CONFIG = window.PAC_CONFIG;
+
+// === [Carte portfolio] — 05/08/2026 · contenu propre au bloc, ajout non destructif ===
+(function () {
+  var c = window.PAC_CONFIG || window.PASS_CONFIG;
+  if (!c) return;
+  c.portfolio = {
+    missionTitre: "Ouvrir un marché B2B à l'international",
+    miseEnSituation: "L'entreprise vise les marchés nordiques avec sa gamme de wearables, sur des territoires où les exigences en matière de données de santé et de qualité de vie au travail sont plus strictes qu'en France, et où l'accès aux grands comptes passe par des partenaires locaux.",
+    choix: "Une stratégie d'offre adaptée marché par marché plutôt qu'une transposition de l'offre française, un plan marketing et un plan d'actions commerciales formalisés séparément, et une entrée par partenariats locaux chiffrés avant tout recrutement en propre.",
+    justification: "Entrer par le partenariat limite l'engagement de capital tant que le marché n'est pas prouvé, et distinguer le plan marketing du plan commercial évite que les moyens d'acquisition ne soient confondus avec les objectifs de vente au moment du suivi budgétaire.",
+    imageSrc: ""
+  };
+  window.PAC_CONFIG = c;
+  window.PASS_CONFIG = c;
+})();
+// === [Carte portfolio] fin ===
