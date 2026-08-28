@@ -620,6 +620,7 @@ window.LUMIO_DATA = {
 
 window.PAC_CONFIG = {
   "bloc": "bc4",
+  "titreCode": "MDO",
   accroche_namescreen: {
     "subtitle": "Stratégie de développement commercial",
     "role": "consultant·e en développement commercial",
